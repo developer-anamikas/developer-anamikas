@@ -1,9 +1,9 @@
 ## 💫 About Me:
 
-I am a B.Tech student specializing in Computer Science and Engineering (IoT). Currently, I'm deep-diving into **Data Structures & Algorithms (DSA)** using **C++** and building full-stack applications. 
+I am a B.Tech student studying Computer Science and Engineering (IoT) at Meghnad Saha Institute of Technology. Currently, I am deep-diving into **Data Structures & Algorithms (DSA)** using **C++** and building full-stack applications.
 
-* 🏆 **Achievement:** Stood as **2nd runner-up** in my first Open Source AI event!
-* 🚀 Always excited about building innovative tech solutions and collaborating on open-source projects.
+* 🏆 **Achievement:** Stood as **2nd runner-up** at **Hackerspace 2026**, an Open Source AI Hackathon!
+* 🚀 Passionate about problem-solving, open-source collaboration, and building smart tech solutions.
 
 
 ## 🌐 Socials:
