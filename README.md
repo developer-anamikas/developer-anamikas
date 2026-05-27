@@ -23,7 +23,13 @@ I am a B.Tech student studying Computer Science and Engineering (IoT) at Meghnad
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=developer-anamikas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+#### 🚀 [habit-tracker](https://github.com/developer-anamikas/habit-tracker)
+> **My Open Source AI Contribution Project (Secured 2nd Runner-Up at Hackerspace 2026) 🎉**
+
+* 🛠️ **Tech Stack:** JavaScript, Node.js, Firebase Backend integration.
+* 📈 **What I Did:** Collaborated on feature development, debugged state persistence patterns, and optimized core workflows for user routines.
+* 🔗 **Repository Link:** [Explore the Project Code base](https://github.com/developer-anamikas/habit-tracker)
 
 ---
 [![](https://komarev.com/ghpvc/?username=developer-anamikas&icon=0&color=0)](https://visitcount.itsvg.in)
